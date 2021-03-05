@@ -83,7 +83,7 @@ class GameWindow(ar.Window):
     
 
     def setup(self):
-        """ Set up the game here. Call this function to restart the game. """
+        """ Set up the game here """
         self.sprite_list = ar.SpriteList()
         
         # Setup background
