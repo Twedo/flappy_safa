@@ -1,4 +1,3 @@
 # flappybird_midyear_project
-
-why isnt this working dasffghffg fdsfsd dadasd
-Tyler is here
+Welcome to Flappy Safa!
+Please open the fb_main.py file to run the game!
